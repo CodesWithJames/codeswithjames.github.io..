@@ -10,14 +10,9 @@ class App extends React.Component {
       <div className="card">
         <div className="header">
           <div className="logo">
-            <a href=".">LOGO</a>
-          </div>
-          <div className="social">
-            <a href="https://facebook.com" title="Facebook" target="_blank" rel="noopener noreferrer">
-              <IconFacebook className="icon" />
-            </a>
-            <a href="https://twitter.com" title="Twitter" target="_blank" rel="noopener noreferrer">
-              <IconTwitter className="icon" />
+            <a href=".">COOULY</a>
+          </div> 
+            </a> 
             </a>
             <a href="https://github.com/arkn98/coming-soon" title="GitHub" target="_blank" rel="noopener noreferrer">
               <IconGithub className="icon" />
